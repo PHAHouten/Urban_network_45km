@@ -11,7 +11,7 @@ The nodes are coloured after the status of the communities:
 ![Legend status](https://github.com/PHAHouten/Urban_network_45km/blob/main/Legend_Graph_30km_status.jpg)
 
 
-The fragmented nature of tis graph, with a multitude of individual nodes led me to reconsider the maximum distance of 30 kilometers. As a result I opted for 45 kilometers, this then adds two full days of travel on the Bintliff idea. That is a visitor to another city would travel one full day of six hours and stay at a secondary agglomeration or mansio. The next day another 15 km, or 3 hours, travel allow to reach the city, finish what needs to be done and return to the resting place. The last 30 km are then left for the third day. This extended version of Bintliff's idea gives us a less fragmented system that is a closer representation of 
+The fragmented nature of this graph, with a multitude of individual nodes led me to reconsider the maximum distance of 30 kilometers. As a result I opted for 45 kilometers, this then adds two full days of travel on the Bintliff idea. That is a visitor to another city would travel one full day of six hours and stay at a secondary agglomeration or mansio. The next day another 15 km, or 3 hours, travel allow to reach the city, finish what needs to be done and return to the resting place. The last 30 km are then left for the third day. This extended version of Bintliff's idea gives us a less fragmented system that is a closer representation of 
 
 This network leaves out modes of transport. Using riverine or maritime routes some cities will be 'closer' to each other. In future work I will add these connections and improve the 45 km edges to differentiate for the road connections the represent.
 
