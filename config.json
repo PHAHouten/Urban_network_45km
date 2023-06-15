@@ -8,8 +8,8 @@
     "text": "PHA Houten"
   },
   "text": {
-    "more": "The number of spectacle buildings is based on the most positive appraoch, meaning that besides archaeologically established buildings, I have included buildings mentioned in classical sources, and indirect evidence such as depictions in contemporary sources. ",
-    "intro": "Weighted degree graph of the cities of Roman Spain and Portugal coloured after their number of spectacle buildings.",
+    "more": "The nodes of the graph show the self-govering communities of the Iberian Peninsula in the Roman period. They have been coloured using the status of the communities. The edges represent connections between nodes that are not more than 45 kilometers apart. See: https://github.com/PHAHouten/Urban_network_45km/blob/main/README.md#urban-network for more information.",
+    "intro": "Graph of the 45 km urban network of Roman Spain and Portugal",
     "title": "Weighted Monuments"
   },
   "legend": {
