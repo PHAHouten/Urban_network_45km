@@ -1,6 +1,6 @@
 # Urban Network
 
-The [interactive graph]() shows the urban network of the Iberian peninsula from a very simple approach: all places 45 km apart are connected. 
+The [interactive graph](https://phahouten.github.io/Urban_network_45km/) shows the urban network of the Iberian peninsula from a very simple approach: all places 45 km apart are connected. 
 
 The idea of this graph originates from my doctoral thesis, published 2021, where I stated that the urban network of the Iberian Peninsula could not have relied solely on the urban, or self-governing, communities. To obtain a fully functioning network the Iberian Peninsula, and for that matter most regions of the Roman Empire, needed to rely on the secondary agglomerations supporting the network. This graph uses a maximum distance of 45 kilometers between two centres, or nodes. This is based on the idea of Bintliff (2002) stating that a maximum of 3 hours, or 15 kilometers, is to be expected for people to travel back and fort between settlements. I have extended this range in my work to 30 kilometrs, or 6 hours with the idea of two, maybe 3 das travel. However, creating a graph with this distance gives a very fragmented network.
 
